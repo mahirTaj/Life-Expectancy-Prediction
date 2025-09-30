@@ -6,11 +6,11 @@ A machine learning project that predicts life expectancy across different countr
 
 ## 📌 Project Overview
 
-* **Course**: CSE422 – Artificial Intelligence
+* **Course**: Artificial Intelligence
 * **Topic**: Life Expectancy Prediction
 * **Dataset Source**: [WHO Life Expectancy Dataset](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who)
 * **Type**: Regression (predicting continuous values)
-* **Group**: 10, Section 03
+
 
 ---
 
@@ -94,15 +94,6 @@ A machine learning project that predicts life expectancy across different countr
 
 ---
 
-## 🚀 Future Work
 
-* Try **ensemble methods** (Random Forest, XGBoost)
-* Use **deep learning with embeddings** for categorical features
-* Apply **feature engineering** to improve interpretability
-* Explore **global health policy implications** based on predictions
 
----
 
-## 📖 License
-
-This project is open-source and available under the [MIT License](LICENSE).
